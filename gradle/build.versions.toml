@@ -1,0 +1,9 @@
+[versions]
+java = "17"
+kotlin = "1.8.0"
+
+[libraries]
+
+[bundles]
+
+[plugins]
